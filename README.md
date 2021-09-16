@@ -1,3 +1,3 @@
 # jenkins-trigger-test
 
-TESTE TRIGGER JENKINS
+TRIGGER JENKINS TEST
