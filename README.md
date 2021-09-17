@@ -1,3 +1,3 @@
 # jenkins-trigger-test
 
-ONE MORE TIME JENKINS TRIGGER TEST
+echo "TESTE TRIGGER JENKINS"
